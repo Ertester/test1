@@ -16,5 +16,3 @@ def fibonacci(n):
     for i in range(n):
         a, b = b, a+b
     return a
-
-
